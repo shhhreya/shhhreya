@@ -1,7 +1,8 @@
-![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm Shreya</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
- <img src="https://komarev.com/ghpvc/?username=ajaysharma78&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysharma78" /> </p>
+![MasterHead](https://media.licdn.com/dms/image/C5612AQEju1qnUQpkUA/article-cover_image-shrink_720_1280/0/1599741957570?e=2147483647&v=beta&t=rqri5338QVMvbbB9DgbGwkNQR1j5E5gTDyI71ClpG1w)
+<h1 align="left" >Hi 👋, I'm Shreya</h1>
+<h3 align="left">A passionate frontend developer from Nepal</h3>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ajaysharma78&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysharma78" /> </p>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 - 🔭 I’m currently working on **my skills**
 
